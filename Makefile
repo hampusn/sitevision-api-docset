@@ -1,6 +1,6 @@
 SITEVISION_API_BASE_URL=https://developer.sitevision.se/webdav/files/apidocs/
 SITEVISION_API_URL=$(SITEVISION_API_BASE_URL)overview-summary.html
-JAVADOCSET_URL=http://kapeli.com/javadocset.zip
+JAVADOCSET_URL=https://kapeli.com/javadocset.zip
 BUILD_DIR=build
 
 .PHONY: all clean
