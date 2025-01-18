@@ -1,3 +1,5 @@
+*This repository is no longer maintained. See [hampusn/sitevision-dash-docs](https://github.com/hampusn/sitevision-dash-docs) for dash docset generated and updated automatically.*
+
 # SiteVision API Dash Documentation Set
 
 A simple makefile to generate a SiteVision API [Docset][1] for use in the macOS app [Dash][2].
